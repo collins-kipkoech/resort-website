@@ -1,0 +1,9 @@
+.navigation{
+    color: blue;
+    background-color: azure;
+}
+.column{
+    float: left;
+    background-color: azure;
+    color: blue;
+}
