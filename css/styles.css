@@ -4,4 +4,6 @@
 }
 .column{
     float: left;
+    background-color: azure;
+    color: blue;
 }
